@@ -1,24 +1,25 @@
 {
-  "name": "chat",
-  "version": "0.0.1",
-  "description": "Chat sencillo con sockets",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/miguelchaves/chatSockets.git"
-  },
-  "keywords": [
-    "chat",
-    "sockets",
-    "node"
-  ],
-  "author": "Miguel y Daniel",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/miguelchaves/chatSockets/issues"
-  },
-  "homepage": "https://github.com/miguelchaves/chatSockets#readme"
+    "name": "chat",
+    "version": "0.0.1",
+    "description": "Chat sencillo con sockets",
+    "main": "index.js",
+    "scripts": {
+        "create-folder": "mkdir build",
+        "test": "test"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/miguelchaves/chatSockets.git"
+    },
+    "keywords": [
+        "chat",
+        "sockets",
+        "node"
+    ],
+    "author": "Miguel y Daniel",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/miguelchaves/chatSockets/issues"
+    },
+    "homepage": "https://github.com/miguelchaves/chatSockets#readme"
 }
